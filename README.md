@@ -5,7 +5,7 @@ git clone https://github.com/rivercome/Login_demo.git
 npm install 
 npm start
 ```
-
+表单代码均在App.js下
 
 ## 脚手架
 选择的是FaceBook官方推出的creat-react-app
